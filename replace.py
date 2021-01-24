@@ -1,0 +1,1 @@
+Class = input("Enter the string: ")
